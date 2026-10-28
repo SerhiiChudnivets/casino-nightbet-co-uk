@@ -1,7 +1,7 @@
 {
   "name": "casino-nightbet.co.uk",
   "site_name": "NightBet Casino | Weekly Raffles & Exclusive Rewards",
-  "html_head": "<meta name=\"google-site-verification\" content=\"cRq5wRYBUBDjGQQuJmnloGJ9Lhkx6j1fltfOHR_PF9k\" />\n<link rel=\"canonical\" href=\"https://casino-nightbet.co.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"NightBet Casino | Weekly Raffles & Exclusive Rewards\">\n<meta property=\"og:description\" content=\"Join NightBet Casino! Discover new slots, enjoy live dealer games, claim exciting bonuses and take part in weekly prize draws.\">\n<meta property=\"og:url\" content=\"https://casino-nightbet.co.uk/\">\n<meta property=\"og:site_name\" content= \"NightBet Casino\">\n",
+  "html_head": "<meta name=\"google-site-verification\" content=\"x3HLd6q0x6cLIEN8tXouXtoXfy2n4dnJ2LiTaKUZ4KQ\" />\n<link rel=\"canonical\" href=\"https://casino-nightbet.co.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"NightBet Casino | Weekly Raffles & Exclusive Rewards\">\n<meta property=\"og:description\" content=\"Join NightBet Casino! Discover new slots, enjoy live dealer games, claim exciting bonuses and take part in weekly prize draws.\">\n<meta property=\"og:url\" content=\"https://casino-nightbet.co.uk/\">\n<meta property=\"og:site_name\" content= \"NightBet Casino\">\n",
   "url": "casino-nightbet.co.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
@@ -278,9 +278,9 @@
       "question": "Can I make payments in different currencies?"
     }
   ],
-  "_generated_at": "2026-10-28T16:46:53.618Z",
+  "_generated_at": "2026-10-28T16:48:01.596Z",
   "_version": "1.0.0",
   "content_alt": "nightbet casino weekly prizes",
-  "_last_deploy": "2026-10-28T16:46:54.265Z",
-  "_deploy_trigger": "93tqi6"
+  "_last_deploy": "2026-10-28T16:48:02.275Z",
+  "_deploy_trigger": "h1qyah"
 }
