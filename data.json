@@ -5,7 +5,7 @@
   "url": "casino-nightbet.co.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -278,9 +278,9 @@
       "question": "Can I make payments in different currencies?"
     }
   ],
-  "_generated_at": "2026-10-28T16:48:01.596Z",
+  "_generated_at": "2026-10-29T09:21:25.635Z",
   "_version": "1.0.0",
   "content_alt": "nightbet casino weekly prizes",
-  "_last_deploy": "2026-10-28T16:48:02.275Z",
-  "_deploy_trigger": "h1qyah"
+  "_last_deploy": "2026-10-29T09:21:26.319Z",
+  "_deploy_trigger": "45sa5"
 }
